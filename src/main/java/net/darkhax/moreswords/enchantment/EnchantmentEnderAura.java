@@ -48,7 +48,5 @@ public class EnchantmentEnderAura extends EnchantmentBase {
                 return;
             }
         }
-
-        attemptWarp(living);
     }
 }
